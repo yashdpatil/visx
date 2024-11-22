@@ -1,0 +1,6 @@
+{
+    "table_mappings": [
+        {"source_table": "fcp_fo_spn_cntrct_pstn", "target_table": "fcp_fo_spn_cntrct_pstn"},
+        {"source_table": "ccp_cod_spn_cntrct_pstn", "target_table": "ccp_cod_spn_cntrct_pstn"}
+    ]
+}
